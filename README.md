@@ -1,9 +1,8 @@
 # Práctica CRUD con JavaScript asíncrono
-### Curso alura latam - One Next Education
+### Curso Alura Latam - One Next Education
 
 ## Temas vistos
 - Creación de requisiciones utilizando xmlhttprequest
-- Lidias con las promises
 - Hacer una requisición http utilizando xmlhttprequest para buscar todos los clientes del servidor
 - Refactorizar el código utilizando promises mejorando su lectura
 - Utilización de template literals para crear un template html
